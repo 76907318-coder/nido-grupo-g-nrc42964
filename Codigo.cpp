@@ -9,6 +9,7 @@
    NRC        : 
    Grupo      : G
    Integrantes: juan carlos chani
+   juan dennys cayllahua apaza
    ============================================================= */
 
 #include <iostream>
